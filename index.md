@@ -4,7 +4,7 @@
 
 Hello, I'm **Aruthan Raveendra**, a passionate programmer who loves solving complex problems. I'm currently working on various projects including web development and software engineering.
 
-[Go to My Projects](###my-projects)
+[Go to My Projects](##my-projects)
 
 
 ### My Skills
