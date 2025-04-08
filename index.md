@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I'm **Aruthan Raveendra**, a passionate programmer who loves solving complex problems. I'm currently working on various projects including web development, software engineering, and open-source contributions.
+Hello, I'm **Aruthan Raveendra**, a passionate programmer who loves solving complex problems. I'm currently working on various projects including web development and software engineering.
 
 [Go to My Projects](###my-projects)
 
